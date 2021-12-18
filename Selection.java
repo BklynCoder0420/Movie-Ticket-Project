@@ -1,4 +1,3 @@
-//Raymond Cai
 public class Selection {
 	private int adult;
 	private int child;
