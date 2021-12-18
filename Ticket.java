@@ -1,5 +1,3 @@
-//Lincoln Peters
-
 import java.util.*;
 
 public class Ticket extends Selection{
