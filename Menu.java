@@ -1,4 +1,3 @@
-//Erick Humala
 import java.util.Scanner;
 import java.util.Date;
 
